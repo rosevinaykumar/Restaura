@@ -119,8 +119,8 @@ export const REVIEW = {
 };
 
 export const CONTACT = [
-  { key: "address", value: "Address: 123 Main Street, Paris, France, 345678" },
-  { key: "phone", value: "Phone: 123-456-7890" },
+  { key: "address", value: "Address: Hyderabad" },
+  { key: "phone", value: "Phone: +91 9000914663" },
   { key: "email", value: "Email: contact@restaurant.com" },
 ];
 
